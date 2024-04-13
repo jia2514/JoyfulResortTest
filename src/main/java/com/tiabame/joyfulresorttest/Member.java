@@ -1,13 +1,13 @@
 package com.tiabame.joyfulresorttest;
 
 public class Member {
-	private Integer memNo;
+	private Integer memNox;
 	private String memName;
 	public Integer getMemNo() {
-		return memNo;
+		return memNox;
 	}
 	public void setMemNo(Integer memNo) {
-		this.memNo = memNo;
+		this.memNox = memNo;
 	}
 	public String getMemName() {
 		return memName;
